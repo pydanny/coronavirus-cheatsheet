@@ -10,8 +10,8 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 ## Symptoms (from [Wikipedia](https://en.wikipedia.org/wiki/Coronavirus_disease_2019))
 
-* Common: fever, dry cough, fatigue, and shortness of breath
-* Less common: sore throat, runny nose, sneezing, diarrhea. Can progress to pneumonia and multi-organ failure. 
+- Common: fever, dry cough, fatigue, and shortness of breath
+- Less common: sore throat, runny nose, sneezing, diarrhea. Can progress to pneumonia and multi-organ failure
 
 Case fatality rate is estimated at between 1% and 5%. 
 
